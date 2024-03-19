@@ -2,6 +2,10 @@
 
 Documenting my journey into the world of Flutter.
 
+## Notes
+
+- Create new app using `flutter create project_name`.
+
 ## Resources
 
 ### Flutter
